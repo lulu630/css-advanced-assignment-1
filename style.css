@@ -19,11 +19,6 @@ body{
 body p{
     line-height: 18px;
 }
-/* 
-body h2{
-    font-weight: 500;
-
-} */
 
 
 .grid-container{
@@ -126,8 +121,6 @@ body h2{
 
 .testimonial-grid .testimonial-card-jeanette .testimonial-title h2{
     color:hsl(217, 19%, 35%);
-    /* max-width: 10rem; */
-
 }
 
 .testimonial-grid .testimonial-card-patrick{
@@ -149,7 +142,6 @@ body h2{
         grid-row: auto;
   }
  
-
 }
 
 
